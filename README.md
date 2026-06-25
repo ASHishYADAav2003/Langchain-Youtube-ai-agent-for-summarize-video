@@ -24,7 +24,7 @@ An intelligent AI-powered agent that automatically fetches, processes, and summa
 
 ## 🌐 Live Demo
 
-> 🚀 **Try it live here:** [**youtube-ai-summarizer.streamlit.app**](https://your-app-name.streamlit.app)
+> 🚀 **Try it live here:** [**youtube-ai-summarizer.streamlit.app**](https://ashishyadaav2003-langchain-youtube-ai-agent-for-summ-app-mu1f13.streamlit.app/)
 
 No setup required — just open the link, paste a YouTube URL, and get your summary instantly.
 
