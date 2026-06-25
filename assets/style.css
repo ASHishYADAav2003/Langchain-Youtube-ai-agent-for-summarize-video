@@ -1,0 +1,27 @@
+/* Custom UI Improvements for Streamlit */
+.stButton > button {
+    width: 100%;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.stDownloadButton > button {
+    width: 100%;
+    border-radius: 8px;
+}
+
+/* Make progress bar look smoother */
+.stProgress > div > div > div > div {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+/* Customizing headings */
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+}
